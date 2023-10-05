@@ -1,6 +1,6 @@
 <h1 align="center">💻 API Livros</h1>
 
-<img src="./src/assets/app_livro.png"/>
+<img src="../projeto/data/src/assets/app_livro.png"/>
 
 ## 📝 Descrição
 
