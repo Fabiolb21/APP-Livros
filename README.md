@@ -1,14 +1,14 @@
 <h1 align="center">💻 API Livros</h1>
 
-<img src="../projeto/data/src/assets/app_livro.png"/>
+<img src="./src/assets/app_livro.png"/>
 
-## 📝 Descrição
+## Descrição
 
 Sistema Web Service que realiza operações básicas de inclusão, alteração, consulta e exclusão de dados em uma página Web.
 
 ## Índice
 
-- [📝 Descrição](#-descrição)
+- [Descrição](#descrição)
 - [Índice](#índice)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
